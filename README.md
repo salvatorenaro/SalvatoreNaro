@@ -1,23 +1,21 @@
 Salvatore Naro è un programmatore specializzato in intelligenza artificiale e designer con competenze avanzate  in data analisi,machine-learning, deep-learning e progettazione Ui-UX.
-———————————————————————————
+
 Linguaggi di Programmazione 👨‍💻 
-———————
-~Python        |                                        
-~Javascript  |                                    
-~C++              |
-———————
-……………………………………………………………………….
+
+~Python                                            
+~Javascript                                   
+~C++              
+
+
 
 Linguaggi Markup 💎
-————
-~Html  |
-~Css    |
-————
-———————————————————————————
+
+~Html  
+~Css   
 
 •Certificazioni 📄
 
-————————Amazon Web Services———————
+————————Amazon Web Services
 
 ~AWS Certificate : Machine Learning Specialty
 
@@ -49,15 +47,15 @@ Linguaggi Markup 💎
 
 ~OpenCv Certificate: Keras Tensorflow Developer 
 
-———————————Boolean———————————-
+———————————Boolean
 
 ~Boolean Certificate: Web Development 
 
-———————————Aulab————————————-
+———————————Aulab
 
 ~Aulab Certificate: Web Designer
 
-———————————Google————————————-
+———————————Google
 
 ~Google Badge:  Machine Learning
 
@@ -65,24 +63,24 @@ Linguaggi Markup 💎
 
 ~Google Badge: Professional Machine Learning Engineer Study Guide
 
-———————————Microsoft———————————
+———————————Microsoft
 
 ~Microsoft Badge: 27
 
-———————————Canva—————————————
+———————————Canva
 
 ~Canva Certificate: Graphic Design Essentials
 
-——————————Study Section—————————
+——————————Study Section
 
 ~ Certificate : Microsoft PowerPoint (advanced)
 
-———————————————————————————
+———————————FreeCode
 ~Machine Learning with Python
 
-~ Responsive Web Design
+~Responsive Web Design
 
-———————————————————————————
+
 
 • Competenze 💻 {
 ~Data-Analisi
@@ -93,19 +91,19 @@ Linguaggi Markup 💎
 -Web Developer 
 - Intelligenza Artificiale
 }
-———————————————————————————
+
 
 • Lingua
 ~Italiano 🇮🇹 
 ~Inglese 🇬🇧 
 
-———————————————————————————
+
 
 • UI/UX Design 
 
 ~Canva    
 
-———————————————————————————
+
 
 • Produttività & Divertimento
 ~PowerPoint
