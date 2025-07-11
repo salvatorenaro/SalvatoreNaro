@@ -76,12 +76,13 @@ Linguaggi Markup 💎
 ~ Certificate : Microsoft PowerPoint (advanced)
 
 ———————————FreeCode
+
 ~Machine Learning with Python
 
 ~Responsive Web Design
 
 
-
+----------------
 • Competenze 💻 {
 ~Data-Analisi
 ~Data-Scientist
