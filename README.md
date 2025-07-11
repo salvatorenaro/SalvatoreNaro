@@ -43,7 +43,7 @@ Linguaggi Markup 💎
 
 ~ AWS Badge: Well-Architected
 
-———————————OpenCv————————————
+———————————OpenCv
 
 ~OpenCv Certificate: Keras Tensorflow Developer 
 
