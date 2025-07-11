@@ -84,13 +84,15 @@ Linguaggi Markup 💎
 
 ----------------
 • Competenze 💻 {
+
 ~Data-Analisi
 ~Data-Scientist
 -Machine-learning
 -Deep-learning
 -Designer
 -Web Developer 
-- Intelligenza Artificiale
+-Intelligenza Artificiale
+
 }
 
 
